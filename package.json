@@ -1,0 +1,20 @@
+{
+  "name": "cavelabhackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exemplo7.js",
+  "scripts": {
+    "start": "node exemplo7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidolo/CAVELabHackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidolo/CAVELabHackathon/issues"
+  },
+  "homepage": "https://github.com/guidolo/CAVELabHackathon#readme"
+}
